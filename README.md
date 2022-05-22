@@ -4,9 +4,11 @@ SQL Portfolio Projects
 Khan Academy projects
 --------
 
-<p>I strongly recommend against using any
-<code>&lt;blink&gt;</code> tags.</p>
+If you want your page to validate under XHTML 1.0 Strict,
+you've got to put paragraph tags in your blockquotes:
 
-<p>I wish SmartyPants used named entities like
-<code>&amp;mdash;</code> instead of decimal-encoded
-entites like <code>&amp;#8212;</code>.</p>
+    <blockquote>
+        <p>For example.</p>
+    </blockquote>
+
+
