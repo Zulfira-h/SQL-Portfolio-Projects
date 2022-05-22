@@ -4,9 +4,8 @@ SQL Portfolio Projects
 Khan Academy projects
 --------
 
+Some of these words *are emphasized*.
+Some of these words _are emphasized also_.
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+Use two asterisks for **strong emphasis**.
+Or, if you prefer, __use two underscores instead__.
