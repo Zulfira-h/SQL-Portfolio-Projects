@@ -4,11 +4,13 @@ SQL Portfolio Projects
 Khan Academy projects
 --------
 
-If you want your page to validate under XHTML 1.0 Strict,
-you've got to put paragraph tags in your blockquotes:
+This is a regular paragraph.
 
-    <blockquote>
-        <p>For example.</p>
-    </blockquote>
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
+This is another regular paragraph.
 
