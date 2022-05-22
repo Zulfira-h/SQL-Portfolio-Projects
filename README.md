@@ -4,8 +4,8 @@ SQL Portfolio Projects
 Khan Academy projects
 --------
 
-Some of these words *are emphasized*.
-Some of these words _are emphasized also_.
+*   A list item.
 
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__.
+    With multiple paragraphs.
+
+*   Another item in the list.
